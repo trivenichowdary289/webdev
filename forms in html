@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="username">username</label>
+        <input
+         type="text" 
+         placeholder="enter name" 
+         id="username" 
+         name="username">
+         <br>
+    
+        <label for="PAssword">password</label>
+        <input type="text" id="PAssword" placeholder="Enter Password" name="pass">
+        <br>
+        
+        <button type="Submit">submit</button>
+        <br>
+        <button type="reset">reset</button>
+        
+    </form>
+</body>
+</html>
